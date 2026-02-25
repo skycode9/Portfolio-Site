@@ -11,6 +11,15 @@ export default function Contact() {
         <p className="mt-4 text-gray-500">
           Have a project in mind or want to collaborate? Feel free to reach out!
         </p>
+        <p className="mt-3 text-sm text-gray-400">
+          <span className="text-gray-500">Gmail:</span>{" "}
+          <a
+            href="mailto:skycode9005@gmail.com"
+            className="text-violet-400 hover:text-violet-300 transition-colors"
+          >
+            skycode9005@gmail.com
+          </a>
+        </p>
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
