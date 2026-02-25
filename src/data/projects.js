@@ -1,6 +1,16 @@
 const projects = [
   {
     id: 1,
+    name: "DevTinder FullStack",
+    description:
+      "DevTinder is a FullStack application that allows users to search for movies and view their details.",
+    image:
+      "https://res.cloudinary.com/drjlfihos/image/upload/v1772006424/Screenshot_2026-02-25_at_12.57.08_AM_hry2ys.png",
+    link: "https://devtinder-yajw.onrender.com",
+    github: "https://github.com/skycode9/DevTinder",
+  },
+  {
+    id: 2,
     name: "Movie App ",
     description:
       " Movie App is a React.js application that allows users to search for movies and view their details.",
@@ -10,7 +20,7 @@ const projects = [
     github: "https://github.com/skycode9/SkyCode-Movie-App",
   },
   {
-    id: 2,
+    id: 3,
     name: "Food Delivery",
     description:
       "Food Delivery is a React.js application that allows users to search for movies and view their details.",
