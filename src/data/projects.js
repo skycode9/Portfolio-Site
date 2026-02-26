@@ -26,7 +26,7 @@ const projects = [
       "Food Delivery is a React.js application that allows users to search for movies and view their details.",
     image:
       "https://raw.githubusercontent.com/skycode9/FoodDeliver-App-React/refs/heads/main/screenshots/home-page.png",
-    link: "https://food-deliver-app-react.vercel.app",
+    link: "https://fooddeliver-app-react.onrender.com",
     github: "https://github.com/skycode9/FoodDeliver-App-React",
   },
 ];
